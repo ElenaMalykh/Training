@@ -27,6 +27,5 @@ while input('Do you want to log into the system: \n if yes - press 1 \n if no - 
 
 
 
-else:
-    print('Good bye!')
+
 
